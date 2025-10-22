@@ -1,0 +1,14 @@
+/Users/alireda/RiderProjects/RunProgram/bin/Debug/net9.0/RunProgram
+/Users/alireda/RiderProjects/RunProgram/bin/Debug/net9.0/RunProgram.deps.json
+/Users/alireda/RiderProjects/RunProgram/bin/Debug/net9.0/RunProgram.runtimeconfig.json
+/Users/alireda/RiderProjects/RunProgram/bin/Debug/net9.0/RunProgram.dll
+/Users/alireda/RiderProjects/RunProgram/bin/Debug/net9.0/RunProgram.pdb
+/Users/alireda/RiderProjects/RunProgram/obj/Debug/net9.0/RunProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alireda/RiderProjects/RunProgram/obj/Debug/net9.0/RunProgram.AssemblyInfoInputs.cache
+/Users/alireda/RiderProjects/RunProgram/obj/Debug/net9.0/RunProgram.AssemblyInfo.cs
+/Users/alireda/RiderProjects/RunProgram/obj/Debug/net9.0/RunProgram.csproj.CoreCompileInputs.cache
+/Users/alireda/RiderProjects/RunProgram/obj/Debug/net9.0/RunProgram.dll
+/Users/alireda/RiderProjects/RunProgram/obj/Debug/net9.0/refint/RunProgram.dll
+/Users/alireda/RiderProjects/RunProgram/obj/Debug/net9.0/RunProgram.pdb
+/Users/alireda/RiderProjects/RunProgram/obj/Debug/net9.0/RunProgram.genruntimeconfig.cache
+/Users/alireda/RiderProjects/RunProgram/obj/Debug/net9.0/ref/RunProgram.dll
